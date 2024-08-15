@@ -1,0 +1,26 @@
+  .section_inicio{
+    background-image: url(Fundo\ Virtual\ para\ Zoom\ Corporativo\ Moderno\ Elegante\ Roxo\ Rosa\ \(1\).png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  
+  }
+  img{
+      height: 200px;
+      border-radius: 100%;
+  }
+  .h1_inicio{
+    font-size: 30px;
+    font-family: "Nunito";
+    color: aliceblue;
+  }
+  .h2_inicio{
+    font-size: 22px;
+    color: aliceblue;
+    font-family: "Nunito";
+  }
+  
